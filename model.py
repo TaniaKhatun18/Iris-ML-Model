@@ -7,7 +7,7 @@ from sklearn.ensemble import RandomForestClassifier
 
 
 # Read original dataset
-iris_df = pd.read_csv("iris.csv")
+iris_df = pd.read_csv("iris-ml-model\data\Iris.csv")
 iris_df.sample(frac=1, random_state=42)
 # selecting features and target data
 X = iris_df[['SepalLengthCm', 'SepalWidthCm', 'PetalLengthCm', 'PetalWidthCm']]
