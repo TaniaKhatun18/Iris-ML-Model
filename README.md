@@ -98,6 +98,9 @@ All dependencies are listed in the `requeriments.txt` file.
 
 Aspiring AI Developer | Python Enthusiast
 
+📄 License
+This project is for educational purposes and personal learning.
+
 📬 Contact
 Feel free to connect or give feedback!
 📧 Email: sania.khatun18022006@gmail.com
