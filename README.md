@@ -98,6 +98,11 @@ All dependencies are listed in the `requeriments.txt` file.
 
 Aspiring AI Developer | Python Enthusiast
 
+📬 Contact
+Feel free to connect or give feedback!
+📧 Email: sania.khatun18022006@gmail.com
+🌐 LinkedIn: : www.linkedin.com/in/tania-khatun-024a30324
+
 
 
 
